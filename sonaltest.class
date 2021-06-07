@@ -2,6 +2,7 @@ class sonaltest{
 
 	public static void min(String args[])
 	{
-		system.out.println("Sonal Test File 01")
+		system.out.println("Sonal Test File 01");
+		System.out.println("line 2 class file");
 	}
 }
